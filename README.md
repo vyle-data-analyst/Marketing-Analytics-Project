@@ -47,37 +47,57 @@ FROM
 ## Data Visualization using PowerBI
 The extracted data was then imported into PowerBI. Below is a screenshot of the data model after cleansed and prepared tables were imported into Power BI.
 
+![image](https://github.com/user-attachments/assets/2e7036aa-5b18-4b8c-b2c0-5ef5b2b1807e)
+
 The Dashboard includes 2 pages. Page 1 contains an overview of analytics into the effectiveness and profitability of the marketing campaigns in February 2021. Page 2 gives more detailed analytics into the performance of different types of campaign and channels.
 
+![image](https://github.com/user-attachments/assets/ad9ff6fb-8968-42c3-8165-f8360913fd8e)
+![image](https://github.com/user-attachments/assets/7208d6c6-8366-4225-bb94-d74ec624555a)
 
 ## Insights
 ### Effectiveness and Profitability
 
+![image](https://github.com/user-attachments/assets/452234e0-b66c-40b9-bbd7-93781c971b8e)
+
 The business successfully gained ***significant brand awareness***, with a total of over ***1.5B Impressions***. It also gained the ***engagement*** of nearly ***3M Clicks*** and ***66K Leads***, which brought ***8043 Orders*** and generated a ***Total Revenue of 428,894K***, with a ***22% Profit Margin*** and ***28% ROI***.
- 
+
+![image](https://github.com/user-attachments/assets/37cdafbf-d8a3-4588-a6b1-941f446aa5b5)
+
 However, The campaigns achieved a ***click-through rate (CTR) of only 0.19%***, significantly lower than the industry benchmark of 2%. This indicates that the company was not engaging its audience effectively or encouraging them to take action. To improve results, ***marketing content needs to be more engaging*** so that the audience is motivated to ***click and provide their information***.
+
+![image](https://github.com/user-attachments/assets/c23b6a00-dd0a-4916-9e7e-65a08d129add)
  
 ***Total Orders*** are ***correlated*** with the ***Marketing Expenses***. Between ***15-20th of the month***, the increased budget expenditure resulted in relatively ***large orders.*** However, both expenses and orders ***declined toward the end of the month***. Therefore, the company needs to allocate its marketing budget more effectively to generate sales ***consistently*** throughout the month.
+
+![image](https://github.com/user-attachments/assets/b224fafa-6e47-4694-91ce-2907591e4f2c)
  
 ***“Facebook retargeting”, “Google Hot,” and “Youtube blogger”*** are the most effective campaigns, boasting the ***highest order conversion rate***. Therefore, the marketing team should prioritize these campaigns to ***drive larger sales***.
+
+![image](https://github.com/user-attachments/assets/3cca918f-da00-4e41-b8f2-3862846d44a9)
  
 ***“Instagram Tier 2”, “Banner Partners”, and “YouTube Bloggers”*** generate the ***highest total leads*** at the ***lowest cost per lead***. Therefore, they are ***cost-effective*** in encouraging the audience to ***sign up and provide their credentials***.
+
+![image](https://github.com/user-attachments/assets/afe6cc47-fd7f-4f34-aebb-b2c2bc842c6c)
  
 Overall, ***6 out of 11*** campaigns executed this month witnessed ***negative ROI***, raising concerns about the effectiveness of our strategies and underscores the need to identify the underlying issues and implement targeted adjustments to ensure that future campaigns align more closely with our business objectives and deliver a positive impact. While the ***“YouTube Blogger”*** Campaign was the ***most profitable***, with a 258% ROI, ***“Facebook LAL”*** had the ***deepest negative ROI*** of nearly -90%.
  
-
 ### Analysis by Types of Campaign and Channel
 
+![image](https://github.com/user-attachments/assets/4ff08597-0935-4ab3-9180-d218b10424ce) ![image](https://github.com/user-attachments/assets/4ec23c94-084c-418c-8214-b8081637b285) ![image](https://github.com/user-attachments/assets/ffd3ab17-c6cc-472f-a647-4be9c7b82701)
   
- 
 ***“Influencer”*** is the most effective type of campaign for ***driving sales and generating revenue***. It not only achieved the greatest CTR, but also resulted in the highest total order and revenue, which led to significantly higher profit margins compared to other marketing approaches. Therefore, by leveraging influencers, the business can effectively ***connect with its target audience***, ultimately ***maximizing its return on investment***.   
+
+![image](https://github.com/user-attachments/assets/32af2a59-c4b5-462c-9a38-7522761f5d89)
  
 ***"Banner"*** generated the ***highest number of impressions*** during the campaign, which indicates its significant impact and effectiveness in enhancing ***brand awareness***. This suggests that utilizing banner ads is a strategic choice to ***maximize visibility*** and ***reach a larger audience*** by capturing the attention of potential customers through visually engaging content.
- 
+
+ ![image](https://github.com/user-attachments/assets/1384c2fa-8a0f-4a35-b4d3-c6a86866c40e)
+
 ***YouTube*** was the ***most cost-effective*** and ***profitable*** channel for marketing, achieving an impressive return on investment (ROI) of 258% during the campaign period with with the lowest customer acquisition cost compared to other channels. In contrast, ***Facebook*** recorded a significant ***negative return on investment*** with the ***highest customer acquisition cost***. Therefore, ***YouTube*** would be a strategic choice for campaigns looking to ***maximize budget*** and ***achieve better financial outcomes***.
 
- 
--	***Instagram*** recorded the ***highest total clicks and leads*** among other channels which implies its ability to ***drive customer engagement and interaction*** with the business.
+![image](https://github.com/user-attachments/assets/c8099222-3ef8-46cf-8583-1bfc0e1e3020)
+
+***Instagram*** recorded the ***highest total clicks and leads*** among other channels which implies its ability to ***drive customer engagement and interaction*** with the business.
 
 ## Recommendation
 ### Objectives
